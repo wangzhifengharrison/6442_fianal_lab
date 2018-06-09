@@ -1,0 +1,183 @@
+<questions>
+
+<question>
+<number>Q01</number>
+<statement> In UML class diagrams inheritance is a 'is a' relationship.   That is when a line connects from class A to class B with empty arrow then  A  ______ class B. 
+</statement>
+<answer>implements</answer>
+<answer>uses</answer>
+<answer>includes</answer>
+<answer>extends</answer>
+</question>
+
+<question>
+<number>Q02</number>
+<statement>To create a completely new git repo  (without any commits) you would use the git ______ command.
+</statement>
+<answer>init</answer>
+<answer>fork</answer>
+<answer>clone</answer>
+<answer>new</answer>
+</question>
+
+<question>
+<number>Q03</number>
+<statement>In Android each time a new activity starts, the previous one is stopped. However, it is preserved in the back stack which is ________
+</statement>
+<answer>a FIFO structure</answer>
+<answer>a tree structure</answer>
+<answer>a LIFO structure</answer>
+<answer>a list of all the available apps</answer>
+</question>
+
+<question>
+<number>Q04</number>
+<statement>In Android which alternative is 'false' about Toasts?
+</statement>
+<answer>A toast is a quick little message for the user </answer>
+<answer>Only fills the amount of space required for the message</answer>
+<answer>Provides simple feedback about an operation in a small pop up</answer>
+<answer>It blocks the current activity and 'no' action can be performed over it</answer>
+</question>
+
+<question>
+<number>Q05</number>
+<statement> When you run the make commands macros  
+</statement>
+<answer>always expand to the same value.</answer>
+<answer>always expand to the same value within a single launch of make.</answer>
+<answer>may expand to different values within a single launch of make.</answer>
+<answer>always expand to different values.</answer>
+</question>
+
+
+
+<question>
+<number>Q06</number>
+<statement>In the context of persistent storage which statement is correct?
+</statement>
+<answer>The kind of data we are using is irrelevant to our choice of data persistence</answer>
+<answer>Bespoke methods often lack robustness</answer>
+<answer>JSON uses the same tag syntax as XML for marking up data.</answer>
+<answer>JSON runs an SQL database to store data</answer>
+</question>
+
+
+
+<question>
+<number>Q07</number>
+<statement> The facade design pattern uses ______ to provide a simplified _______ to a complex module (such as a collection of classes or a library).
+</statement>
+<answer>a class, Application Programming Interface (API) </answer>
+<answer>an interface, constructor</answer>
+<answer>a constructor, Application Programming Interface (API) </answer>
+<answer>an interface, destructor</answer>
+</question>
+
+<question>
+<number>Q08</number>
+<statement>One problem with using the _________ operator is that it ties the code using this for constructing objects in with a particular fixed class. The _________ design pattern addresses this design issue.  
+</statement>
+<answer>new, factory</answer>
+<answer>new, decorator</answer>
+<answer>assignment, factory</answer>
+<answer>assignment, decorator</answer>
+</question>
+
+<question>
+<number>Q09</number>
+<statement>All the nodes of a B-Tree (except possibly the root node) contain between ___________ sorted elements.  
+</statement>
+<answer>1 and 2</answer>
+<answer>n and 2n</answer>
+<answer>n and n + 2</answer>
+<answer>0 and n</answer>
+</question>
+
+
+<question>
+<number>Q10</number>
+<statement>Verification checks whether each function within the implementation is working correctly. (___________________)
+</statement>
+<answer>building the thing right</answer>
+<answer>building the right thing</answer>
+<answer>validating the implementation for the requirements</answer>
+<answer>authenticating design stability</answer>
+</question>
+
+
+<question>
+<number>Q11</number>
+<statement>Testing ________ "prove" code to be correct. However it will ________ uncover problems within code.
+</statement>
+<answer>can not, always</answer>
+<answer>can, often</answer>
+<answer>can not, often</answer>
+<answer>can, always</answer>
+</question>
+
+
+
+<question>
+<number>Q12</number>
+<statement>
+What is the order of the below method?
+&lt;pre&gt;
+    void method12(int n) {
+        for (int i=0;i &amp;lt; n;i++) System.out.println("Hello");
+        if (n &amp;gt; 0) {
+            method12(n/2);
+            method12(n/2);
+        }
+    }
+&lt;/pre&gt;
+</statement>
+<answer>O(1)</answer>
+<answer>O(lg(n))</answer>
+<answer>O(n)</answer>
+<answer>O(n lg(n))</answer>
+</question>
+
+
+<question>
+<number>Q13</number>
+<statement>
+What is the order of the below method?
+&lt;pre&gt;
+    void method13(int n) {
+        int i;
+        for(i=0;i &amp;lt; n*10;i += n/10) {
+            System.out.println("Hello");
+        }
+    }
+&lt;/pre&gt;
+</statement>
+<answer>O(1)</answer>
+<answer>O(lg(n))</answer>
+<answer>O(n)</answer>
+<answer>O(n lg(n))</answer>
+</question>
+
+<question>
+<number>Q14</number>
+<statement>Which of the following is correct:
+</statement>
+<answer>You don't need to apply to register a patent - an invention is automatically protected as soon as you invent it</answer>
+<answer> Patent law is just concerned with making sure that inventors get a benefit from their invention</answer>
+<answer>If you don't know that another person has a patent over an invention you can’t infringe their rights</answer>
+<answer>There are a huge number of software patents and the numbers are increasing every year</answer>
+</question>
+
+<question>
+<number>Q15</number>
+<statement>  Which of the following is incorrect:
+</statement>
+<answer>Trade marks can protect business reputation and goodwill</answer>
+<answer>Trade marks can be used to protect a particular product or service</answer>
+<answer>Trade marks prevent someone using a similar mark in trade or commerce</answer>
+<answer>Trade marks prevent someone using a mark for all goods or services without exception</answer>
+</question>
+
+
+
+</questions>
